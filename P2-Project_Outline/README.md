@@ -9,12 +9,12 @@ For this assignment, you will submit a high-level outline of your project. This 
 ### Overview
 The Histoire app is a helper app for those that can't stick with their responsibilities.
 ### Features
-Upcoming events
-Due events
-Overdue events
+* Upcoming events
+* Due events
+* Overdue events
 ### Technologies
-C#
-HTML
+* C#
+* HTML
 ### What I'll Have to Learn
 Mobile app code
 ### Project Tracker
