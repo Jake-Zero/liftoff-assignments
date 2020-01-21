@@ -7,12 +7,15 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+The Histoire app is a helper app for those that can't stick with their responsibilities.
 ### Features
-Include Features here
+Upcoming events
+Due events
+Overdue events
 ### Technologies
-Include Technologies here
+C#
+HTML
 ### What I'll Have to Learn
-Include what you will need to learn here
+Mobile app code
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/aGr9tB9X/histoire-app
